@@ -1,0 +1,14 @@
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\bin\Debug\netcoreapp3.1\testeDecompor.exe
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\bin\Debug\netcoreapp3.1\testeDecompor.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\bin\Debug\netcoreapp3.1\testeDecompor.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\bin\Debug\netcoreapp3.1\testeDecompor.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\bin\Debug\netcoreapp3.1\testeDecompor.dll
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\bin\Debug\netcoreapp3.1\testeDecompor.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.dll
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\portifolio\testeDecompor\testeDecompor\obj\Debug\netcoreapp3.1\testeDecompor.genruntimeconfig.cache

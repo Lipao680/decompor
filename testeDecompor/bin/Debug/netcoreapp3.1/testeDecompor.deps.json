@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "testeDecompor/1.0.0": {
+        "runtime": {
+          "testeDecompor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeDecompor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
